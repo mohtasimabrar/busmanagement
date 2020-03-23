@@ -1,0 +1,18 @@
+.logodiv{
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+}
+
+.para {
+	font-size: 45px;
+	padding-left: 20px;
+	/*padding-top: 18px;*/
+	margin-top: 28px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.image{
+	height: 100px;
+}

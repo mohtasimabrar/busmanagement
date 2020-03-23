@@ -1,0 +1,15 @@
+.bodyNav{
+	background-color: #B0BEC5;
+	margin-right: 120px;
+	margin-left: 120px;
+	border-radius: 5px; 
+}
+
+.cards {
+	display: flex;
+	justify-content: center;
+}
+
+.card{
+	margin: 50px;
+}

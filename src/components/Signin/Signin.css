@@ -1,0 +1,16 @@
+.bodySignin {
+    background-color: #CFD8DC;
+    margin-top: 100px;
+
+}
+.mainLogo{
+    height: 120px;
+    padding-top: 100px;
+}
+
+.headingSignin {
+    font-size: 35px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: sans-serif;
+}
