@@ -9,7 +9,7 @@ function Register({onRouteChange}) {
 	  		<img className='registerLogo' src={logo} />
 	  		<p className='headingRegister black'>Brac University Bus Service </p>
   		</div>
-		<article class="br3 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw6 center shadow-5 body">
+		<article className="br3 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw6 center shadow-5 body">
 
 			<main className="pa4 black-80">
 			  <form className="measure">
