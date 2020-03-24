@@ -29,6 +29,10 @@ class Signin extends React.Component {
 				password: this.state.signInPassword
 			})
 		})
+
+		/* The problem is happening here. If i remove the if condition and just change the  state then it works fine. 
+		But if i use the condition it just reloads and throws me back to sign in page */
+		
 		 .then(response => response.json())
 		 .then(data => {
 		 	if (data === 'error logging in') {
